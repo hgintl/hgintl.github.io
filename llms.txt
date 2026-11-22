@@ -1,9 +1,12 @@
 # H&G International Group LLC
 
-> H&G International Group LLC is a private equity and hedge fund investment firm based in Las Vegas, Nevada, United States.
+> H&G International Group LLC is a technology-enabled private equity and hedge fund investment firm based in Las Vegas, Nevada, United States.
 
 ## About
 H&G International Group LLC invests in live entertainment, sports, hospitality and gaming, including stadium and commercial mixed-use development. The firm takes principal positions, builds patiently, and partners for the long term. Investment decisions are made in-house.
+
+## Technology
+The firm operates a proprietary intelligence platform: AI-driven deal sourcing and screening, proprietary underwriting models run against live market data, and real-time portfolio analytics across its hospitality, gaming, sports, and entertainment assets.
 
 ## Investment focus
 - Live Entertainment
