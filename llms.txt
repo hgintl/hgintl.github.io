@@ -15,6 +15,7 @@ The firm operates a proprietary intelligence platform: AI-driven deal sourcing a
 - Gaming
 - Stadiums
 - Commercial Mixed-Use Development
+- Tech-Enabled Platforms
 
 ## In development
 - Fly In Fly Out: a private aviation resort and hangar development in Las Vegas, Nevada.
