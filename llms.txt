@@ -1,6 +1,6 @@
 # H&G International Group LLC
 
-> H&G International Group LLC is a private equity and hedge fund investment firm based in Summerlin, Las Vegas, Nevada, United States.
+> H&G International Group LLC is a private equity and hedge fund investment firm based in Las Vegas, Nevada, United States.
 
 ## About
 H&G International Group LLC invests in live entertainment, sports, hospitality and gaming, including stadium and commercial mixed-use development. The firm takes principal positions, builds patiently, and partners for the long term. Investment decisions are made in-house.
@@ -18,4 +18,4 @@ H&G International Group LLC invests in live entertainment, sports, hospitality a
 
 ## Contact
 - Website: https://hginternationalgroup.com/
-- Location: Summerlin, Las Vegas, Nevada, US
+- Location: Las Vegas, Nevada, US
